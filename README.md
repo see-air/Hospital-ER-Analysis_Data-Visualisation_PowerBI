@@ -4,8 +4,6 @@ Modeling hospital emergency department data with Power Bi
 ## 1)	Project Overview 
 « Objectives: Modeling hospital emergency department data with Power Bi ».
 
-Acoording to the tutorial : "https://www.youtube.com/watch?v=ZCc6pzQzCIA"
-
 ## 2)	Buisness Objective 
 To improve operational efficiency and provide actionable insights into an Hospital emergency department , we need to create an analytics dashboard for exploring emergency room operations and patients flow. 
 These interactives dashboards will enable stakeholders to track, analyse, and make data-driven decisions regarding patient management and service organization.
@@ -101,7 +99,7 @@ Displays key insights from all dashboards.
 
 ## 10)	 Repository Structure
 
-A completer 
+<img width="549" height="273" alt="image" src="https://github.com/user-attachments/assets/dbcaa8f4-65e0-4f25-9d8b-e2b198aafd46" />
 
 ## 11)	 Methodology
 To complete this project, I follow the tutorial available on the webpage "https://www.youtube.com/watch?v=ZCc6pzQzCIA" . 
